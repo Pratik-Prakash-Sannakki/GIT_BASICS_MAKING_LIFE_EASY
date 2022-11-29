@@ -1,1 +1,1 @@
-# Git Command that make life easy
+# Git Commands that make life easy
